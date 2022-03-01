@@ -1,2 +1,2 @@
 # GLTextureView
- A easy-to-use TextureView with GL context
+ An easy-to-use TextureView with GL context
