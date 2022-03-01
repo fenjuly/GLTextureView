@@ -1,7 +1,7 @@
 # GLTextureView
  An easy-to-use TextureView with GL context
 
-This GLTextureView is diferent from other GLTextureView Whose implementation that is copied from GLSurfaceView.
+This GLTextureView is diferent from other GLTextureView whose implementation is copied from GLSurfaceView.
 
 ### Advantage
 
