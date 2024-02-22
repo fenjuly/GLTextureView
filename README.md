@@ -1,7 +1,7 @@
 # GLTextureView
  An easy-to-use TextureView with GL context
 
-This GLTextureView is diferent from other GLTextureView whose implementation is copied from GLSurfaceView.
+This GLTextureView is different from other GLTextureView whose implementation is copied from GLSurfaceView.
 
 ### Advantage
 
@@ -11,7 +11,7 @@ This GLTextureView is diferent from other GLTextureView whose implementation is 
 ### Usage
 While View is attached, the **GL Thread** will be created, and will be destroyed when View is detached.
 
-if you want wirte your render code, just implements the interface ```GLTextureView.Renderer```, it has four methods which is the same as ```GLSurfaceView.Renderer```
+if you want to wirte your render code, just implements the interface ```GLTextureView.Renderer```, it has four methods which is the same as ```GLSurfaceView.Renderer```
 
 ```
 interface Renderer {
